@@ -1,0 +1,13 @@
+Date,Location,Product,Category,Sales_Amount,Customer_Rating
+01-Jan,Downtown,Latte,Drink,$4.50,5
+01-Jan,Downtown,Croissant,Food,$3.50,4
+01-Jan,Airport,Espresso,Drink,$3.00,3
+02-Jan,Downtown,Latte,Drink,$4.50,5
+02-Jan,Airport,Sandwich,Food,$8.00,2
+02-Jan,Mall,Mocha,Drink,$5.50,4
+03-Jan,Downtown,Espresso,Drink,$3.00,5
+03-Jan,Mall,Croissant,Food,$3.50,3
+03-Jan,Airport,Latte,Drink,$4.50,1
+04-Jan,Downtown,Sandwich,Food,$8.00,5
+04-Jan,Downtown,Catering Set,Food,$500.00,5
+05-Jan,Mall,Mocha,Drink,$5.50,4
